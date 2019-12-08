@@ -29,7 +29,7 @@
 }
 
 .subPageHeaderBackground {
-	background-color: #fff;
+	background-color: #191919;
 }
 
 .container {					// Set up the container for the site content
@@ -50,7 +50,7 @@
 
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
-	background-color: #fff;
+	background-color: #191919;
 }
 
 @media only screen and (max-width: 768px) {
@@ -225,17 +225,17 @@ nav > ul li a:active {
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > p {
-	color: #000;
+	color: #7fff00;
 }
 
 .subPageHeaderBackground nav > ul li a:link,
 .subPageHeaderBackground nav > ul li a:visited {
-	color: rgba(#000, 0.6);
+	color: rgba(#7fff00, 0.6);
 }
 
 .subPageHeaderBackground nav > ul li a:hover,
 .subPageHeaderBackground nav > ul li a:active {
-	color: rgba(#000, 1);
+	color: rgba(#7fff00, 1);
 }
 
 

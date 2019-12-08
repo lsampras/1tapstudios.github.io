@@ -17,6 +17,6 @@ Play store release for GoChimp: The Impossible Memory Game.
 * Normal mode for casual play
 * Timer mode for hardcore players
 * Share highscore on Twitter
-* Connect with Play Games to unlock achievments and climb leaderboards
+* Connect with Google Play Services to unlock achievements and climb leaderboards
 
 <br>
